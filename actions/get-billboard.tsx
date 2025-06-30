@@ -8,4 +8,4 @@ const getBillboard = async (id: string): Promise<Billboard> => {
 	return res.json();
 }
 
-export default getBillboard;
+export default getBillboard;                   	           
